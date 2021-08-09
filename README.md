@@ -1,5 +1,5 @@
 # Auto-Change-ip
-## cf yes
+## cf yes  (搬运HostLoc 脆弱的蜗牛 )  REC
 
 1、利用cloudflare的cname解析（cdn。wzfou。com）；
 2、购买dnspod个人专业版，因为免费版600秒ttl，专业版可以最低120秒ttl，频繁改ip，ttl得低一点，重点：必须添加电信、移动、联通这三个线路的a记录；
